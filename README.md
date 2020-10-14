@@ -1,1 +1,4 @@
-# amrani
+# عمراني
+username
+Email
+password
